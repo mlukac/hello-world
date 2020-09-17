@@ -1,3 +1,3 @@
-body { background: teal; color:#fff; text-align: center; display: flex; align-items:center; justify-content-center; font-family: 'Anton', sans-serif;  }
-h1 { font-size: 3rem; text-transform: uppercase; font-weight: 700; }
-p { font-size: 2rm; }
+body { background: teal; color:#fff; text-align: center; display: flex; align-items:center; justify-content: center; flex-direction: column; font-family: 'Anton', sans-serif;  }
+h1 { font-size: 3rem; text-transform: uppercase; font-weight: 700; margin-bottom: auto; }
+p { font-size: 2rem; }
